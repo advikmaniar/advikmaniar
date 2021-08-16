@@ -4,7 +4,7 @@
 - 📫 How to reach me <br>
                         :e-mail:: advik.maniar@gmail.com <br>
                         :phone:: +91-9819221916 <br>
-                        :briefcase:: https://www.linkedin.com/in/advik-maniar-80a229206/
+                        :briefcase:: https://www.linkedin.com/in/advikmaniar
 
 
 <!---
