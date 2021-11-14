@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advikmaniar
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 📫 How to reach me <br>
                         :e-mail:: advik.maniar@gmail.com <br>
                         :phone:: (646)-9612018 <br>
