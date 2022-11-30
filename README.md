@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @advikmaniar
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m a Software Developer 
 - 🌱 I’m currently studying Computer Science
 - 📫 How to reach me <br>
                         :e-mail:: advik.maniar@gmail.com <br>
