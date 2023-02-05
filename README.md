@@ -4,7 +4,7 @@
 - 📫 How to reach me <br>
                         :e-mail:: advik.maniar@gmail.com <br>
                         :phone:: (646)-9612018 <br>
-                        :portfolio:: https://adviks-portfolio.webflow.io/
+                        :briefcase:: https://adviks-portfolio.webflow.io/
 
 
 <!---
