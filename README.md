@@ -4,9 +4,8 @@
 - 📫 How to reach me <br>
                         :e-mail:: advik.maniar@gmail.com <br>
                         :phone:: (646)-9612018 <br>
-                        :briefcase:: https://adviks-portfolio.webflow.io/
-                        :linkedin:: https://www.linkedin.com/in/advikmaniar/
-
+                        :briefcase:: https://adviks-portfolio.webflow.io/ 
+                        
 
 <!---
 advikmaniar/advikmaniar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
