@@ -5,6 +5,7 @@
                         :e-mail:: advik.maniar@gmail.com <br>
                         :phone:: (646)-9612018 <br>
                         :briefcase:: https://adviks-portfolio.webflow.io/
+                        :linkedin:: https://www.linkedin.com/in/advikmaniar/
 
 
 <!---
