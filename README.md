@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advikmaniar
 - 👀 I build software and data models 
-- 🌱 I’m currently studying Computer Science
+- 🌱 Computer Science Graduate
 - 📫 How to reach me <br>
                         :e-mail:: advik.maniar@gmail.com <br>
                         :phone:: (646)-9612018 <br>
